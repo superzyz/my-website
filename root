@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>纵咏钊的个人作品集</title>
+  <style>
+    body { font-family: sans-serif; background: #f5f7fa; margin: 0; padding: 0; line-height: 1.6; }
+    header, section { max-width: 800px; margin: auto; padding: 20px; background: white; margin-top: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    h1, h2 { color: #2c3e50; }
+    ul { padding-left: 20px; }
+    .tag { display: inline-block; background: #3498db; color: white; padding: 5px 10px; margin: 5px 5px 0 0; border-radius: 20px; font-size: 14px; }
+    footer { text-align: center; font-size: 14px; color: #888; margin: 20px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>你好，我是纵咏钊</h1>
+  <p>海南大学 · 计算机科学与技术专业（大三）</p>
+  <p>后端开发工程师 · 热爱编程 · 技术追求者</p>
+</header>
+
+<section>
+  <h2>关于我</h2>
+  <p>我是一名海南大学计算机专业的大三学生，专注于后端开发方向，擅长使用 Java 技术栈，熟悉常用框架与中间件。具备扎实的项目经验与实习经历，热爱解决问题并不断学习新技术。</p>
+</section>
+
+<section>
+  <h2>项目经历</h2>
+  <h3>🧩 讨论论坛系统项目</h3>
+  <ul>
+    <li>实现用户注册：基于邮件激活链接完成注册</li>
+    <li>密码加密：使用 MD5 + 盐值进行安全存储</li>
+    <li>登录功能：集成验证码验证机制，防止暴力破解</li>
+    <li>状态管理：区分游客与登录用户的页面访问与功能</li>
+    <li>用户功能：支持上传头像、发布帖子、评论、私信、敏感词过滤</li>
+    <li>互动功能：实现点赞、关注与系统通知功能</li>
+  </ul>
+</section>
+
+<section>
+  <h2>实习经历</h2>
+  <h3>💼 上海营康科技有限公司</h3>
+  <p>后端开发工程师（2024.12 - 2025.2）</p>
+
+  <h3>💼 亚信科技有限公司</h3>
+  <p>后端开发工程师（2025.04 - 2025.09）</p>
+</section>
+
+<section>
+  <h2>技能清单</h2>
+  <div>
+    <span class="tag">Java</span>
+    <span class="tag">Spring</span>
+    <span class="tag">Spring Boot</span>
+    <span class="tag">Spring Cloud</span>
+    <span class="tag">MyBatis</span>
+    <span class="tag">Redis</span>
+    <span class="tag">Kafka</span>
+    <span class="tag">Docker</span>
+    <span class="tag">MySQL</span>
+    <span class="tag">Linux</span>
+  </div>
+</section>
+
+<section>
+  <h2>联系方式</h2>
+  <p>📧 邮箱：<a href="mailto:yongzhaozong@gmail.com">yongzhaozong@gmail.com</a></p>
+  <p>💻 GitHub：<em>（你可以提供你的 GitHub 链接）</em></p>
+</section>
+
+<footer>
+  © 2025 纵咏钊 - 海南大学
+</footer>
+
+</body>
+</html>
